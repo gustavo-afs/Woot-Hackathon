@@ -1,6 +1,6 @@
 # Woot-Hackathon
 
-#
+![plot](./External/Woot.png)
 
 #Project Purpose
 
